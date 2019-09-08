@@ -11,6 +11,6 @@
     "page": "options.html",
     "open_in_tab": false
   },
-  "icons": { "16": "icon.png", "48": "icon.png", "128": "icon.png" },
+  "icons": { "16": "icon16.png", "48": "icon48.png", "120": "icon120.png" },
   "permissions": ["contextMenus", "clipboardWrite", "storage"]
 }
